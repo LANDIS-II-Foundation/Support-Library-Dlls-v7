@@ -5,7 +5,7 @@ LANDIS-II Core libraries are available on the MyGet *__landis-ii-v7__* feed.
 <br><br>
 
 
-## Landis Core dependent libraries
+## LANDIS-II Core dependent libraries
 
 | DLLs | Assembly Version | Dependencies |
 |:---:|:---: |:---: |
@@ -15,7 +15,7 @@ LANDIS-II Core libraries are available on the MyGet *__landis-ii-v7__* feed.
 | Landis.Library.Biomass-v2 | 2.0.0.0 | Landis.Core (v2.0.0) <br> Landis.SpatialModeling (v2.0.0) <br> Landis.Utilities (v2.0.0) |
 
 <br><br>
-## Landis Core & Support dependent Libraries
+## LANDIS-II Core & Support dependent Libraries
 
 | DLLs | Assembly Version | Dependencies |
 |:---: | :---: | :---: |
